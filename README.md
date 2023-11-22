@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Fahad Muhammad Iqbal</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
-<img align="center"> width="400" src="https://user-images.githubusercontent.com/37581959/141803278-86a2df71-ab7c-42b9-9e40-3c9f12172c38.gif"
+<img align="right" alt="developer" width="400" src="https://user-images.githubusercontent.com/37581959/141803278-86a2df71-ab7c-42b9-9e40-3c9f12172c38.gif">  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahf172&label=Profile%20views&color=0e75b6&style=flat" alt="shahf172" /> </p>
 
